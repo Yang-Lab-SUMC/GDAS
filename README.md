@@ -33,3 +33,8 @@ BioRxiv: https://www.biorxiv.org/content/10.64898/2026.03.06.708406v1
 - Spritz: A Proteogenomic Database Engine, J Proteome Res 2021, 20, 1826–1834.
 - Enhanced protein isoform characterization through long-read proteogenomics, Genome Biology 2022, 23, 69.
 - A Hybrid Spectral Library and Protein Sequence Database Search Strategy for Bottom-Up and Top-Down Proteomic Data Analysis, J of Proteome Res 2022, 21, 2609-2618
+
+## Note
+- The Docker image should be consistent with the host machine environment
+- GlycReSoft setting: https://mobiusklein.github.io/glycresoft/docs/_build/html/cli-apps/index.html
+- O-Pair setting: recommend to export the Settings through the GUI and place them in the specified root directory
